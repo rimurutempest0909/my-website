@@ -1,0 +1,6 @@
+{
+  "name": "LexiPulse - Daily English Reading & Vocabulary Mastery",
+  "description": "Improve English vocabulary, reading speed, and reading comprehension with daily personalized articles tailored to your CEFR proficiency level (A1-C2), interactive vocabulary lookup, and comprehension quizzes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
