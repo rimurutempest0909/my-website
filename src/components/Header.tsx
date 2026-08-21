@@ -40,7 +40,7 @@ export const Header: React.FC<HeaderProps> = ({
               </div>
               <div>
                 <span className="text-xl font-bold tracking-tight text-[#EDEDED] flex items-center gap-2">
-                  LexiPulse
+                  Read&amp;Learn
                   <span className="text-xs font-semibold px-2 py-0.5 rounded-md bg-[#241A0B] text-[#E5C378] border border-[#5E4417]">
                     CEFR {userProfile.targetLevel}
                   </span>
